@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=blue&width=435&lines=Hi,+I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=blue&width=435&lines=Hi,+I'm+a+Full+Stack+Developer.)](https://git.io/typing-svg)
 
 - 🔭 I'm working with Java, React, Spring, Insomnia, MySQL...
 - 🌱 Studying C and Python
